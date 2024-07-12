@@ -7,7 +7,8 @@
 }
 
 html,body {
-    background: #496c4e;
+    /* background: #496c4e; #F9878F; */
+    background: #9d565b;
 }
 
 .container {
@@ -75,7 +76,7 @@ html,body {
 }
 
 .header {
-    color: #9da09d;
+    color: #e4e9e4;
     font-size: 35px;
 }
 
